@@ -1,5 +1,18 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-I'm Abhishek - I'm cyber security intern and a developer, i love to work on new technologies and try to understand them in depth...
+
+<h1 akign="left">👋 About Me</h1>
+
+I am a Computer Science student focused on **Web Application Security, Penetration Testing, and System Programming**.  
+I enjoy understanding how systems work at a low level and identifying security vulnerabilities through practical, hands-on testing.
+
+Currently, I work as a **Cyber Security (VAPT) Intern**, where I perform web application security testing using tools like **Burp Suite, Nmap, and Kali Linux** and follow OWASP-based testing methodologies.
+
+Alongside cybersecurity, I have a strong foundation in **C/C++ system programming**, having built projects like a custom Linux shell, multithreaded HTTP server, and file monitoring tools.
+
+I am actively learning and improving in:
+- Web Application Penetration Testing (OWASP Top 10)
+- Vulnerability Assessment & Exploitation Techniques
+- Linux Internals & System Programming
+- Security-focused problem solving
 
 ###
 
