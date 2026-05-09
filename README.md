@@ -82,10 +82,12 @@ I am actively learning and improving in:
 </div> -->
 
 <!-- <img src="https://streak-stats.demolab.com?user=hellboy-zero&theme=dracula&v=2" /> -->
-
+###
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=hellboy-zero&theme=dracula" />
 </div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellboy-zero/hellboy-zero/output/pacman-contribution-graph-dark.svg">
