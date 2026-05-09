@@ -83,7 +83,7 @@ I am actively learning and improving in:
 
 <!-- <img src="https://streak-stats.demolab.com?user=hellboy-zero&theme=dracula&v=2" /> -->
 
-<div align="center>
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=hellboy-zero&theme=dracula&cache_seconds=1" />
 </div>
 
